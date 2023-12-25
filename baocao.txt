@@ -1,0 +1,56 @@
+ * đặt vấn đề 
+
+từ trước đến nay sức khỏe thì luôn dược mọi người quan tâm và chú trong .
+sức khẻo thì quý hơn vàng . từ đó các nhà thuốc mơ ngày cang nhiều
+để đáp ứng nhu cầu khách hàng .bên cạch đó các 
+thuốc không chỉ bán các loại thuốc , các thuộc phẩm chức nằng mà còn bán nhiều loại
+sản phẩm khác như các loại sữa cho trẻ em ,ngươi lớn , phụ nữ mang thai , các loại
+mỹ phẩm làm đẹp , dụng cu y tế (nhiệt kế , kim tiêm , thiết bị đo huyết áp)
+
+=> từ đó việc quản lý nhà thuốc ,sl spam , mặt hàng , tồn kho chở  nên phức tạp,
+cần nhiều thời gian.
+
+
+* lịch sử
+
+truyền thống : không cần sự hiểu biết về công nghệ , số lượng sổ sách trong một thời gian dài sẻ lớn
+	cần nhiều diện thích để lưu trư , có nguy cơ bị mất hoặc bị phá hoại do côn trùng (chuột , mọt) 
+	tìm kiếm thông tin lâu => chưa hiệu quả
+
+nhân viên 
+
+Trong thời đại công nghệ phát triển như hiện nay, việc ứng dụng công nghệ thông 
+tin vào quản lý nhà thuốc đang ngày càng trở nên phổ biến. 
+Một website quản lý nhà thuốc được thiết kế tốt sẽ giúp nhà thuốc nâng cao 
+hiệu quả hoạt động, tiết kiệm thời gian và chi phí, 
+đồng thời mang lại trải nghiệm tốt hơn cho khách hàng. là một sự cần thiết 
+
+
+* các bước tiến hành
+
+Phân tích yêu cầu: Bước đầu tiên là phân tích các yêu cầu của nhà thuốc về website 
+quản lý. Các yêu cầu này bao gồm các tính năng, chức năng, giao diện và 
+nội dung của website nhà thuốc .
+
+phân tích yêu cầu : nhà thuốc bán những gì sản phẩm gì ,những ai sư dụng sử dung 
+ website , chức năng mà nhà thuốc cần 
+
+
+Thiết kế: Sau khi phân tích yêu cầu, thí cần thiết kế website. 
+Thiết kế website bao gồm thiết kế giao diện và thiết kế nội dung.dư trên cơ sơ dư 
+liệu phân tích 
+
+Phát triển: Bước tiếp theo là phát triển website nhà thuốc  Phát triển website  nhà thuốc
+bao gồm lập trình, thiết kế đồ họa và thiết kế web.
+
+Kiểm thử: Sau khi phát triển website ,thì cần kiểm thử website để đảm bảo website 
+hoạt động đúng như mong đợi. nếu website bị lỗi hoặc giao diện không đúng yêu cầu ở
+thiết kết thi quay lại bước phát triển.
+
+Triển khai: Bước cuối cùng là triển khai website. 
+Triển khai website bao gồm đưa website lên máy chủ và bàn giao lại cho người dung 
+
+
+
+thiết kế cơ sơ dự liệu em su dụng XamPP control panel và workben 
+code : vs code
